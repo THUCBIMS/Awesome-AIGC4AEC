@@ -1,6 +1,17 @@
 # Awesome-AIGC4AEC
 Collecting papers about **potential** AIGC applications in the AEC industry.
 
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.4-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
+
+**Maintainers**: [**Han Huang**](https://github.com/alvin528) (Tsinghua University)
+
+**Emails**: {h-huang20}@mails.tsinghua.edu.cn
+
+Please feel free to pull requests to add new resources or send emails to us for questions, discussion and collaborations.
+
+
 ## Object Scale
 
 ### Mesh Design
