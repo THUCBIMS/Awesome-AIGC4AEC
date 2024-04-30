@@ -5,11 +5,11 @@ Collecting papers about AIGC applications in AEC.
 
 ## Room Scale
 
-* Language Guided Generation of 3D Embodied AI Environments (CVPR'24) [[Project]](https://yueyang1996.github.io/holodeck/) [[Paper]](https://yueyang1996.github.io/papers/holodeck.pdf) [[Code]](https://github.com/allenai/Holodeck)
-
 ### Mesh
 
 ### Layout
+
+* Language Guided Generation of 3D Embodied AI Environments (CVPR'24) [[Project]](https://yueyang1996.github.io/holodeck/) [[Paper]](https://yueyang1996.github.io/papers/holodeck.pdf) [[Code]](https://github.com/allenai/Holodeck)
 
 ### Texture
 
@@ -21,8 +21,10 @@ Collecting papers about AIGC applications in AEC.
 
 * Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion (CVPR'24 highlight) [[Project]](https://shinkyo0513.github.io/Sat2Scene/) [[Paper]](https://arxiv.org/pdf/2401.10786) [[Code]](https://github.com/shinkyo0513/Sat2Scene)
 
-* CityDreamer: Compositional Generative Model of Unbounded 3D Cities (CVPR'24) [[Project]](https://www.infinitescript.com/project/city-dreamer/) [[Paper]](https://arxiv.org/pdf/2309.00610) [[Code]](https://github.com/hzxie/CityDreamer)
-
 * BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2401.17053)
 
 ### Layout
+
+* CityDreamer: Compositional Generative Model of Unbounded 3D Cities (CVPR'24) [[Project]](https://www.infinitescript.com/project/city-dreamer/) [[Paper]](https://arxiv.org/pdf/2309.00610) [[Code]](https://github.com/hzxie/CityDreamer)
+
+* SceneX: Procedural Controllable Large-scale Scene Generation via Large-language Models (Arxiv'24) [[Project]](https://scenex-lab.github.io/) [[Paper]](https://arxiv.org/pdf/2403.15698) [[Code]](https://github.com/SceneX-LAB/SceneX-LAB)
