@@ -5,11 +5,7 @@ Collecting papers about **potential** AIGC applications in the AEC industry.
 
 This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
 
-**Maintainers**: [**Han Huang**](https://github.com/alvin528) (Tsinghua University)
-
-**Emails**: {h-huang20}@mails.tsinghua.edu.cn
-
-Please feel free to pull requests to add new resources or send emails to us for questions, discussion and collaborations.
+Please feel free to pull requests to add new resources or open issues for questions, discussion and collaborations.
 
 
 ## Object Scale
