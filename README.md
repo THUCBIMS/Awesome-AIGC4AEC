@@ -7,10 +7,16 @@ Collecting papers about AIGC applications in AEC.
 
 ### Mesh Design
 
+* AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes (Arxiv'24) [[Project]](https://freddierao.github.io/AnyHome/) [[Paper]](https://arxiv.org/pdf/2312.06644) [[Code]](https://github.com/FreddieRao/anyhome_github)
+
 ### Parametric Design
 
 * Language Guided Generation of 3D Embodied AI Environments (CVPR'24) [[Project]](https://yueyang1996.github.io/holodeck/) [[Paper]](https://yueyang1996.github.io/papers/holodeck.pdf) [[Code]](https://github.com/allenai/Holodeck)
 
+* Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2403.09675)
+
+* I-Design: Personalized LLM Interior Designer (Arxiv'24) [[Project]](https://atcelen.github.io/I-Design/) [[Paper]](https://arxiv.org/pdf/2404.02838)
+  
 ### Texture Design
 
 ## City Scale
