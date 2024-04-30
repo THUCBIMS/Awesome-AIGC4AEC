@@ -1,5 +1,5 @@
 # Awesome-AIGC4AEC
-Collecting papers about AIGC applications in AEC.
+Collecting papers about **potential** AIGC applications in the AEC industry.
 
 ## Object Scale
 
