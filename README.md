@@ -15,13 +15,29 @@ Collecting papers about **potential** AIGC applications in the AEC industry.
 
 * AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes (Arxiv'24) [[Project]](https://freddierao.github.io/AnyHome/) [[Paper]](https://arxiv.org/pdf/2312.06644) [[Code]](https://github.com/FreddieRao/anyhome_github)
 
+* Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2403.16210)
+
+* External Knowledge Enhanced 3D Scene Generation from Sketch (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2403.14121)
+
+* Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models (ICCV'23) [[Project]](https://lukashoel.github.io/text-to-room/) [[Paper]](https://lukashoel.github.io/text-to-room/static/images/Text2Room.pdf) [[Code]](https://github.com/lukasHoel/text2room)
+
+* SceneWiz3D: Towards Text-guided 3D Scene Composition (Arxiv'23) [[Project]](https://zqh0253.github.io/SceneWiz3D/) [[Paper]](https://zqh0253.github.io/SceneWiz3D/media/scenewiz3d.pdf) [[Code]](https://github.com/zqh0253/SceneWiz3D)
+
+* Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2310.03602v1)
+
 ### Parametric Design
 
 * Language Guided Generation of 3D Embodied AI Environments (CVPR'24) [[Project]](https://yueyang1996.github.io/holodeck/) [[Paper]](https://yueyang1996.github.io/papers/holodeck.pdf) [[Code]](https://github.com/allenai/Holodeck)
 
+* DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis (CVPR'24) [[Project]](https://tangjiapeng.github.io/projects/DiffuScene/) [[Paper]](https://arxiv.org/pdf/2303.14207) [[Code]](https://github.com/tangjiapeng/DiffuScene?tab=readme-ov-file)
+
+* InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior (ICLR'24) [[Project]](https://chenguolin.github.io/projects/InstructScene/) [[Paper]](https://arxiv.org/pdf/2402.04717) [[Code]](https://github.com/chenguolin/InstructScene)
+
 * Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2403.09675)
 
 * I-Design: Personalized LLM Interior Designer (Arxiv'24) [[Project]](https://atcelen.github.io/I-Design/) [[Paper]](https://arxiv.org/pdf/2404.02838)
+
+* LayoutGPT: Compositional Visual Planning and Generation with Large Language Models (NeurIPS'23) [[Project]](https://layoutgpt.github.io/) [[Paper]](https://arxiv.org/pdf/2305.15393) [[Code]](https://github.com/weixi-feng/LayoutGPT)
   
 ### Texture Design
 
