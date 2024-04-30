@@ -26,6 +26,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 * External Knowledge Enhanced 3D Scene Generation from Sketch (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2403.14121)
 
+* DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting (Arxiv'24) [[Project]](https://dreamscene360.github.io/) [[Paper]](https://arxiv.org/pdf/2404.06903)
+
 * Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models (ICCV'23) [[Project]](https://lukashoel.github.io/text-to-room/) [[Paper]](https://lukashoel.github.io/text-to-room/static/images/Text2Room.pdf) [[Code]](https://github.com/lukasHoel/text2room)
 
 * SceneWiz3D: Towards Text-guided 3D Scene Composition (Arxiv'23) [[Project]](https://zqh0253.github.io/SceneWiz3D/) [[Paper]](https://zqh0253.github.io/SceneWiz3D/media/scenewiz3d.pdf) [[Code]](https://github.com/zqh0253/SceneWiz3D)
@@ -48,6 +50,9 @@ Please feel free to pull requests to add new resources or open issues for questi
   
 ### Texture Design
 
+* DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation (VR'24) [[Project]](https://ybbbbt.com/publication/dreamspace/) [[Paper]](https://ybbbbt.com/publication/dreamspace/media/DreamSpace.pdf) [[Code]](https://github.com/ybbbbt/dreamspace)
+
+
 ## City Scale
 
 ### Mesh Design
@@ -55,6 +60,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies (CVPR'24 highlight) [[Project]](https://research.nvidia.com/labs/toronto-ai/xcube/) [[Paper]](https://research.nvidia.com/labs/toronto-ai/xcube/assets/paper.pdf)
 
 * Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion (CVPR'24 highlight) [[Project]](https://shinkyo0513.github.io/Sat2Scene/) [[Paper]](https://arxiv.org/pdf/2401.10786) [[Code]](https://github.com/shinkyo0513/Sat2Scene)
+
+* WonderJourney: Going from Anywhere to Everywhere (CVPR'24) [[Project]](https://kovenyu.com/wonderjourney/) [[Paper]](https://arxiv.org/pdf/2312.03884) [[Code]](https://github.com/KovenYu/WonderJourney)
 
 * BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2401.17053)
 
