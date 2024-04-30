@@ -16,6 +16,36 @@ Please feel free to pull requests to add new resources or open issues for questi
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377) 
 ### Texture Design
 
+* Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials (Arxiv'24) [[Project]](https://sunzey.github.io/Make-it-Real/) [[Paper]](https://arxiv.org/pdf/2404.16829) [[Code]](https://github.com/Aleafy/Make_it_Real/)
+
+* MaPa: Text-driven Photorealistic Material Painting for 3D Shapes (SIGGRAPH'24) [[Project]](https://zhanghe3z.github.io/MaPa/) [[Paper]](https://github.com/zhanghe3z/MaPa/releases/download/paper/2024_SIGGRAPH_PaintMat_arxiv.6.pdf)
+
+* DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2404.14676)
+
+* FlashTex: Fast Relightable Mesh Texturing with LightControlNet (Arxiv'24) [[Project]](https://flashtex.github.io/) [[Paper]](https://arxiv.org/pdf/2402.13251)
+
+* Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering (CVPR'24) [[Project]](https://kim-youwang.github.io/paint-it) [[Paper]](https://kim-youwang.github.io/media/paint-it/paint-it.pdf) [[Code]](https://github.com/postech-ami/paint-it)
+
+* TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion (Arxiv'24) [[Project]](https://texturedreamer.github.io/) [[Paper]](https://arxiv.org/pdf/2401.09416)
+
+* Collaborative Control for Geometry-Conditioned PBR Image Generation (Arxiv'24) [[Project]](https://unity-research.github.io/holo-gen/) [[Paper]](https://github.com/unity-research/holo-gen/releases/download/paper/paper.pdf)
+
+* Single Mesh Diffusion Models with Field Latents for Texture Generation (CVPR'24) [[Project]](https://single-mesh-diffusion.github.io/) [[Paper]](https://arxiv.org/pdf/2312.09250) [[Code]](https://github.com/google-research/google-research/tree/master/mesh_diffusion)
+
+* Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models (Arxiv'23) [[Project]](https://paint3d.github.io/) [[Paper]](https://arxiv.org/pdf/2312.13913) [[Code]](https://github.com/OpenTexture/Paint3D)
+
+* Text-Guided Texturing by Synchronized Multi-View Diffusion (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2311.12891) [[Code]](https://github.com/LIU-Yuxin/SyncMVD)
+
+* Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation (ICCV'23) [[Project]](https://fantasia3d.github.io/) [[Paper]](https://fantasia3d.github.io/assets/Fantasia3D.pdf) [[Code]](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
+
+* TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models (ICCV'23) [[Project]](https://research.nvidia.com/labs/toronto-ai/texfusion/) [[Paper]](https://research.nvidia.com/labs/toronto-ai/texfusion/static/iccv2023_texfusion.pdf)
+
+* Text2Tex: Text-driven Texture Synthesis via Diffusion Models (ICCV'23) [[Project]](https://daveredrum.github.io/Text2Tex/) [[Paper]](https://daveredrum.github.io/Text2Tex/static/Text2Tex.pdf) [[Code]](https://github.com/daveredrum/Text2Tex)
+
+* TEXTure: Text-Guided Texturing of 3D Shapes (SIGGRAPH'23) [[Project]](https://texturepaper.github.io/TEXTurePaper/) [[Paper]](https://arxiv.org/pdf/2302.01721) [[Code]](https://github.com/TEXTurePaper/TEXTurePaper)
+
+* Text2Mesh: Text-Driven Neural Stylization for Meshes (CVPR'22) [[Porject]](https://threedle.github.io/text2mesh/) [[Paper]](https://arxiv.org/pdf/2112.03221) [[Code]](https://github.com/threedle/text2mesh)
+
 ## Room Scale
 
 ### Mesh Design
@@ -52,6 +82,11 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 * DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation (VR'24) [[Project]](https://ybbbbt.com/publication/dreamspace/) [[Paper]](https://ybbbbt.com/publication/dreamspace/media/DreamSpace.pdf) [[Code]](https://github.com/ybbbbt/dreamspace)
 
+* SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors (CVPR'24) [[Project]](https://daveredrum.github.io/SceneTex/) [[Paper]](https://daveredrum.github.io/SceneTex/static/SceneTex.pdf) [[Code]](https://github.com/daveredrum/SceneTex)
+
+* MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion (NeurIPS'23) [[Project]](https://mvdiffusion.github.io/) [[Paper]](https://mvdiffusion.github.io/assets/mvdiffusion_paper.pdf) [[Code]](https://github.com/Tangshitao/MVDiffusion)
+
+* Text2Scene: Text-Driven Indoor Scene Stylization With Part-Aware Details (CVPR'23) [[Paper]](https://arxiv.org/pdf/2308.16880)
 
 ## City Scale
 
