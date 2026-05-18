@@ -1,7 +1,7 @@
 # Awesome-AIGC4AEC
 Collecting papers about **potential** AIGC applications in the AEC industry.
 
-![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.4-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.5-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -12,9 +12,27 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion (CVPR'25 highlight) [[Project]](https://3dtopia.github.io/3DTopia-XL/) [[Paper]](https://arxiv.org/pdf/2409.12957) [[Code]](https://github.com/3DTopia/3DTopia-XL)
+
+* Turbo3D: Ultra-fast Text-to-3D Generation (CVPR'25) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_Turbo3D_Ultra-fast_Text-to-3D_Generation_CVPR_2025_paper.pdf)
+
+* Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2505.07747) [[Code]](https://github.com/stepfun-ai/Step1X-3D)
+
 ### Parametric Design
-* How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377) 
+
+* How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
+
 ### Texture Design
+
+* MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion (ICCV'25 highlight) [[Paper]](https://arxiv.org/pdf/2503.10289)
+
+* Material Anything: Generating Materials for Any 3D Object via Diffusion (CVPR'25) [[Paper]](https://arxiv.org/pdf/2411.15138)
+
+* TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting (CVPR'25) [[Project]](https://3d-aigc.github.io/TexGaussian/) [[Paper]](https://arxiv.org/pdf/2411.19654)
+
+* UniTEX: Universal High Fidelity Generative Texturing for 3D Shapes (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2505.23253)
+
+* TexGen: Text-Guided 3D Texture Generation (ECCV'24) [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05550.pdf)
 
 * Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials (Arxiv'24) [[Project]](https://sunzey.github.io/Make-it-Real/) [[Paper]](https://arxiv.org/pdf/2404.16829) [[Code]](https://github.com/Aleafy/Make_it_Real/)
 
@@ -44,11 +62,21 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 * TEXTure: Text-Guided Texturing of 3D Shapes (SIGGRAPH'23) [[Project]](https://texturepaper.github.io/TEXTurePaper/) [[Paper]](https://arxiv.org/pdf/2302.01721) [[Code]](https://github.com/TEXTurePaper/TEXTurePaper)
 
-* Text2Mesh: Text-Driven Neural Stylization for Meshes (CVPR'22) [[Porject]](https://threedle.github.io/text2mesh/) [[Paper]](https://arxiv.org/pdf/2112.03221) [[Code]](https://github.com/threedle/text2mesh)
+* Text2Mesh: Text-Driven Neural Stylization for Meshes (CVPR'22) [[Project]](https://threedle.github.io/text2mesh/) [[Paper]](https://arxiv.org/pdf/2112.03221) [[Code]](https://github.com/threedle/text2mesh)
 
 ## Room Scale
 
 ### Mesh Design
+
+* HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models (ICCV'25 highlight) [[Project]](https://neu-vi.github.io/houseCrafter/) [[Paper]](https://arxiv.org/pdf/2406.20077) [[Code]](https://github.com/neu-vi/houseCrafter)
+
+* SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation (CVPR'25) [[Project]](https://alexeybokhovkin.github.io/scenefactor/) [[Paper]](https://arxiv.org/pdf/2412.01801)
+
+* Layout2Scene: 3D Semantic Layout Guided Scene Generation via Geometry and Appearance Diffusion Priors (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2501.02519)
+
+* ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary (CVPR'25) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Gu_ArtiScene_Language-Driven_Artistic_3D_Scene_Generation_Through_Image_Intermediary_CVPR_2025_paper.pdf)
+
+* DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling (ECCV'24) [[Paper]](https://arxiv.org/pdf/2404.03575)
 
 * AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes (Arxiv'24) [[Project]](https://freddierao.github.io/AnyHome/) [[Paper]](https://arxiv.org/pdf/2312.06644) [[Code]](https://github.com/FreddieRao/anyhome_github)
 
@@ -66,6 +94,16 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2605.14117)
+
+* FloorPlan-DeepSeek (FPDS): A Multimodal Approach to Floorplan Generation using Vector-based Next Room Prediction (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2506.21562)
+
+* Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2506.05341)
+
+* Global-Local Tree Search in VLMs for 3D Indoor Scene Generation (CVPR'25) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Deng_Global-Local_Tree_Search_in_VLMs_for_3D_Indoor_Scene_Generation_CVPR_2025_paper.pdf)
+
+* Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2509.00543)
+
 * Language Guided Generation of 3D Embodied AI Environments (CVPR'24) [[Project]](https://yueyang1996.github.io/holodeck/) [[Paper]](https://yueyang1996.github.io/papers/holodeck.pdf) [[Code]](https://github.com/allenai/Holodeck)
 
 * DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis (CVPR'24) [[Project]](https://tangjiapeng.github.io/projects/DiffuScene/) [[Paper]](https://arxiv.org/pdf/2303.14207) [[Code]](https://github.com/tangjiapeng/DiffuScene?tab=readme-ov-file)
@@ -80,6 +118,8 @@ Please feel free to pull requests to add new resources or open issues for questi
   
 ### Texture Design
 
+* RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing (CVPR'25) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_RoomPainter_View-Integrated_Diffusion_for_Consistent_Indoor_Scene_Texturing_CVPR_2025_paper.pdf)
+
 * DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation (VR'24) [[Project]](https://ybbbbt.com/publication/dreamspace/) [[Paper]](https://ybbbbt.com/publication/dreamspace/media/DreamSpace.pdf) [[Code]](https://github.com/ybbbbt/dreamspace)
 
 * SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors (CVPR'24) [[Project]](https://daveredrum.github.io/SceneTex/) [[Paper]](https://daveredrum.github.io/SceneTex/static/SceneTex.pdf) [[Code]](https://github.com/daveredrum/SceneTex)
@@ -91,6 +131,14 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## City Scale
 
 ### Mesh Design
+
+* WonderTurbo: Generating Interactive 3D World in 0.72 Seconds (ICCV'25) [[Project]](https://wonderturbo.github.io/) [[Paper]](https://arxiv.org/pdf/2504.02261) [[Code]](https://github.com/GigaAI-research/WonderTurbo)
+
+* HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2507.21809) [[Code]](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
+
+* Controllable 3D Outdoor Scene Generation via Scene Graphs (ICCV'25) [[Paper]](https://arxiv.org/pdf/2503.07152)
+
+* Large Scene Generation with Cube-Absorb Discrete Diffusion (ICCV'25) [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Large_Scene_Generation_with_Cube-Absorb_Discrete_Diffusion_ICCV_2025_paper.pdf)
 
 * XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies (CVPR'24 highlight) [[Project]](https://research.nvidia.com/labs/toronto-ai/xcube/) [[Paper]](https://research.nvidia.com/labs/toronto-ai/xcube/assets/paper.pdf)
 
