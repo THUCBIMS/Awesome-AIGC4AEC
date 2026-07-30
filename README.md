@@ -1,7 +1,7 @@
 # Awesome-AIGC4AEC
 Collecting papers about **potential** AIGC applications in the AEC industry.
 
-![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.5-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.7-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -12,6 +12,16 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* Text-Image Conditioned 3D Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Cen_Text-Image_Conditioned_3D_Generation_CVPR_2026_paper.pdf)
+
+* Native and Compact Structured Latents for 3D Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiang_Native_and_Compact_Structured_Latents_for_3D_Generation_CVPR_2026_paper.pdf)
+
+* FullPart: Generating each 3D Part at Full Resolution (ICLR'26) [[Paper]](https://openreview.net/pdf?id=QlRlE7a1p4)
+
+* RelaxFlow: Text-Driven Amodal 3D Generation (ICML'26 spotlight) [[Paper]](https://openreview.net/pdf?id=UamxHbDR3p)
+
+* PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World (ICML'26) [[Paper]](https://openreview.net/pdf?id=BBIcqAryty)
+
 * 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion (CVPR'25 highlight) [[Project]](https://3dtopia.github.io/3DTopia-XL/) [[Paper]](https://arxiv.org/pdf/2409.12957) [[Code]](https://github.com/3DTopia/3DTopia-XL)
 
 * Turbo3D: Ultra-fast Text-to-3D Generation (CVPR'25) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_Turbo3D_Ultra-fast_Text-to-3D_Generation_CVPR_2025_paper.pdf)
@@ -20,9 +30,25 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* CADFS: A Big CAD Program Dataset and Framework for Computer-Aided Design with Large Language Models (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Pyatov_CADFS_A_Big_CAD_Program_Dataset_and_Framework_for_Computer-Aided_CVPR_2026_paper.pdf)
+
+* CAD-Refiner: A Unified Framework for CAD Generation and Iterative Editing (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Yuan_CAD-Refiner_A_Unified_Framework_for_CAD_Generation_and_Iterative_Editing_CVPR_2026_paper.pdf)
+
+* Bidirectional Query-Driven Generation of Parametric CAD Sketch (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Bidirectional_Query-Driven_Generation_of_Parametric_CAD_Sketch_CVPR_2026_paper.pdf)
+
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
 
 ### Texture Design
+
+* TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_TEXTRIX_Latent_Attribute_Grid_for_Native_Texture_Generation_and_Beyond_CVPR_2026_paper.pdf)
+
+* NaTex: Seamless Texture Generation as Latent Color Diffusion (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Lai_NaTex_Seamless_Texture_Generation_as_Latent_Color_Diffusion_CVPR_2026_paper.pdf)
+
+* CaliTex: Geometry-Calibrated Attention for View-Coherent 3D Texture Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_CaliTex_Geometry-Calibrated_Attention_for_View-Coherent_3D_Texture_Generation_CVPR_2026_paper.pdf)
+
+* MatLat: Material Latent Space for PBR Texture Generation (CVPR'26) [[Project]](https://matlat-proj.github.io/) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Yeo_MatLat_Material_Latent_Space_for_PBR_Texture_Generation_CVPR_2026_paper.pdf)
+
+* StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning (CVPR'26) [[Project]](https://gvecchio.com/stablematerials) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Vecchio_StableMaterials_Enhancing_Diversity_in_Material_Generation_via_Semi-Supervised_Learning_CVPR_2026_paper.pdf)
 
 * MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion (ICCV'25 highlight) [[Paper]](https://arxiv.org/pdf/2503.10289)
 
@@ -68,6 +94,16 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners (CVPR'26) [[Project]](https://luling06.github.io/I-Scene-project/) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Ling_I-Scene_3D_Instance_Models_are_Implicit_Generalizable_Spatial_Learners_CVPR_2026_paper.pdf)
+
+* MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_MANSION_Multi-floor_lANguage-to-3D_Scene_generatIOn_for_loNg-horizon_tasks_CVPR_2026_paper.pdf)
+
+* SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model (CVPR'26) [[Project]](https://idea-research.github.io/SceneMaker/) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_SceneMaker_Open-set_3D_Scene_Generation_with_Decoupled_De-occlusion_and_Pose_CVPR_2026_paper.pdf)
+
+* Pano3DComposer: Feed-Forward Compositional 3D Scene Generation from Single Panoramic Image (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Qiu_Pano3DComposer_Feed-Forward_Compositional_3D_Scene_Generation_from_Single_Panoramic_Image_CVPR_2026_paper.pdf)
+
+* TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity (ICML'26) [[Paper]](https://openreview.net/pdf?id=0CiahYXWsk)
+
 * HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models (ICCV'25 highlight) [[Project]](https://neu-vi.github.io/houseCrafter/) [[Paper]](https://arxiv.org/pdf/2406.20077) [[Code]](https://github.com/neu-vi/houseCrafter)
 
 * SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation (CVPR'25) [[Project]](https://alexeybokhovkin.github.io/scenefactor/) [[Paper]](https://arxiv.org/pdf/2412.01801)
@@ -93,6 +129,12 @@ Please feel free to pull requests to add new resources or open issues for questi
 * Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2310.03602v1)
 
 ### Parametric Design
+
+* Unified Vector Floorplan Generation via Markup Representation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shiohara_Unified_Vector_Floorplan_Generation_via_Markup_Representation_CVPR_2026_paper.pdf)
+
+* SAGE: Scalable Agentic 3D Scene Generation for Embodied AI (CVPR'26) [[Project]](https://research.nvidia.com/labs/dir/sage/) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xia_SAGE_Scalable_Agentic_3D_Scene_Generation_for_Embodied_AI_CVPR_2026_paper.pdf)
+
+* Repurposing 3D Generative Model for Autoregressive Layout Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Repurposing_3D_Generative_Model_for_Autoregressive_Layout_Generation_CVPR_2026_paper.pdf)
 
 * Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2605.14117)
 
@@ -120,7 +162,7 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 * RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing (CVPR'25) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_RoomPainter_View-Integrated_Diffusion_for_Consistent_Indoor_Scene_Texturing_CVPR_2025_paper.pdf)
 
-* DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation (VR'24) [[Project]](https://ybbbbt.com/publication/dreamspace/) [[Paper]](https://ybbbbt.com/publication/dreamspace/media/DreamSpace.pdf) [[Code]](https://github.com/ybbbbt/dreamspace)
+* DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation (VR'24) [[Project]](https://ybbbbt.com/publication/dreamspace/) [[Paper]](https://ybbbbt.com/publication/dreamspace/media/dreamspace.pdf) [[Code]](https://github.com/ybbbbt/dreamspace)
 
 * SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors (CVPR'24) [[Project]](https://daveredrum.github.io/SceneTex/) [[Paper]](https://daveredrum.github.io/SceneTex/static/SceneTex.pdf) [[Code]](https://github.com/daveredrum/SceneTex)
 
@@ -131,6 +173,12 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## City Scale
 
 ### Mesh Design
+
+* PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Tze_PrITTI_Primitive-based_Generation_of_Controllable_and_Editable_3D_Semantic_Urban_CVPR_2026_paper.pdf)
+
+* Extend3D: Town-Scale 3D Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Yoon_Extend3D_Town-Scale_3D_Generation_CVPR_2026_paper.pdf)
+
+* ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Guo_ScenDi_3D-to-2D_Scene_Diffusion_Cascades_for_Urban_Generation_CVPR_2026_paper.pdf)
 
 * WonderTurbo: Generating Interactive 3D World in 0.72 Seconds (ICCV'25) [[Project]](https://wonderturbo.github.io/) [[Paper]](https://arxiv.org/pdf/2504.02261) [[Code]](https://github.com/GigaAI-research/WonderTurbo)
 
