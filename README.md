@@ -1,7 +1,7 @@
 # Awesome-AIGC4AEC
 Collecting papers about **potential** AIGC applications in the AEC industry.
 
-![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.7-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.8-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -11,6 +11,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## Object Scale
 
 ### Mesh Design
+
+* ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2607.28581) [[Code]](https://github.com/H-EmbodVis/ROAD)
+
+* UMI3D: Robust 3D Generation on Unconstrained Multi-Image Inputs via Simultaneous Focus Cross-Attention Routing (Arxiv'26) [[Project]](https://umi3d-project.github.io/) [[Paper]](https://arxiv.org/pdf/2607.24298) [[Code]](https://github.com/quzefan/UMI3D)
 
 * Text-Image Conditioned 3D Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Cen_Text-Image_Conditioned_3D_Generation_CVPR_2026_paper.pdf)
 
@@ -129,6 +133,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2310.03602v1)
 
 ### Parametric Design
+
+* PlanCraft: Sketch, Refine, and Furnish for Architect-Inspired Progressive 3D Residential Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2607.23491)
 
 * Unified Vector Floorplan Generation via Markup Representation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shiohara_Unified_Vector_Floorplan_Generation_via_Markup_Representation_CVPR_2026_paper.pdf)
 
