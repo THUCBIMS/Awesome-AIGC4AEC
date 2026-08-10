@@ -34,6 +34,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* RA-CAD: Learning Post-Execution Critique for State-Aware Text-to-CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.05714)
+
+* TraceCAD: Trace-Guided Repair for Agentic CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.03062)
+
 * CADFS: A Big CAD Program Dataset and Framework for Computer-Aided Design with Large Language Models (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Pyatov_CADFS_A_Big_CAD_Program_Dataset_and_Framework_for_Computer-Aided_CVPR_2026_paper.pdf)
 
 * CAD-Refiner: A Unified Framework for CAD Generation and Iterative Editing (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Yuan_CAD-Refiner_A_Unified_Framework_for_CAD_Generation_and_Iterative_Editing_CVPR_2026_paper.pdf)
@@ -134,6 +138,12 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* iARCS: Iterative Agentic RL for Controllable 3D Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.06161)
+
+* Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.03064)
+
+* Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.01973)
+
 * PlanCraft: Sketch, Refine, and Furnish for Architect-Inspired Progressive 3D Residential Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2607.23491)
 
 * Unified Vector Floorplan Generation via Markup Representation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shiohara_Unified_Vector_Floorplan_Generation_via_Markup_Representation_CVPR_2026_paper.pdf)
@@ -179,6 +189,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## City Scale
 
 ### Mesh Design
+
+* To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.05879)
+
+* WorldClaw: Agentic 3D Open-World Generation at Scale (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.05248)
 
 * PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Tze_PrITTI_Primitive-based_Generation_of_Controllable_and_Editable_3D_Semantic_Urban_CVPR_2026_paper.pdf)
 
