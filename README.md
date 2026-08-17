@@ -34,6 +34,12 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* Test-Time Scaling for CAD Generation via Verifier-Free Consensus Selection (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.09706)
+
+* TOOLCAD: Exploring Tool-Using Large Language Models in Text-to-CAD Generation with Reinforcement Learning (ACL'26) [[Paper]](https://aclanthology.org/2026.findings-acl.1160.pdf)
+
+* CADMate: Generating CAD Assembly Plan with Geometric Chain-of-Thought and Spatial Physical Rewards (ACL'26) [[Paper]](https://aclanthology.org/2026.acl-long.834.pdf)
+
 * RA-CAD: Learning Post-Execution Critique for State-Aware Text-to-CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.05714)
 
 * TraceCAD: Trace-Guided Repair for Agentic CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.03062)
@@ -138,6 +144,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.11876)
+
+* PolyLayout: Hierarchical VLM-Guided Layout Generation Beyond Rectangular Rooms (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.10838)
+
 * iARCS: Iterative Agentic RL for Controllable 3D Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.06161)
 
 * Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.03064)
@@ -152,7 +162,7 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 * Repurposing 3D Generative Model for Autoregressive Layout Generation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Repurposing_3D_Generative_Model_for_Autoregressive_Layout_Generation_CVPR_2026_paper.pdf)
 
-* Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2605.14117)
+* Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards (ACL'26) [[Paper]](https://aclanthology.org/2026.findings-acl.1326.pdf)
 
 * FloorPlan-DeepSeek (FPDS): A Multimodal Approach to Floorplan Generation using Vector-based Next Room Prediction (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2506.21562)
 
@@ -189,6 +199,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## City Scale
 
 ### Mesh Design
+
+* StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization (Arxiv'26) [[Project]](https://yuyangyin.github.io/StateFlow/) [[Paper]](https://arxiv.org/pdf/2608.12314)
 
 * To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.05879)
 
