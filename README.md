@@ -12,6 +12,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion (Arxiv'26) [[Project]](https://alexandertsui.github.io/block3d/) [[Paper]](https://arxiv.org/pdf/2608.19567)
+
+* SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.18560)
+
 * ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2607.28581) [[Code]](https://github.com/H-EmbodVis/ROAD)
 
 * UMI3D: Robust 3D Generation on Unconstrained Multi-Image Inputs via Simultaneous Focus Cross-Attention Routing (Arxiv'26) [[Project]](https://umi3d-project.github.io/) [[Paper]](https://arxiv.org/pdf/2607.24298) [[Code]](https://github.com/quzefan/UMI3D)
@@ -33,6 +37,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2505.07747) [[Code]](https://github.com/stepfun-ai/Step1X-3D)
 
 ### Parametric Design
+
+* aDSL: Agentic 3D Creation via Joint Agent-Program Design (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.17975) [[Code]](https://github.com/sig-pku/aDSL)
 
 * Test-Time Scaling for CAD Generation via Verifier-Free Consensus Selection (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.09706)
 
@@ -144,6 +150,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.18840)
+
 * D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.11876)
 
 * PolyLayout: Hierarchical VLM-Guided Layout Generation Beyond Rectangular Rooms (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.10838)
@@ -199,6 +207,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## City Scale
 
 ### Mesh Design
+
+* GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.17988)
 
 * StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization (Arxiv'26) [[Project]](https://yuyangyin.github.io/StateFlow/) [[Paper]](https://arxiv.org/pdf/2608.12314)
 
