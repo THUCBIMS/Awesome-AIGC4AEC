@@ -12,6 +12,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* ViSculpt: Visual-Centric Agentic Geometry Editing (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.24169)
+
+* Luce: Relightable Gaussians for 3D Asset Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.23943)
+
 * Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion (Arxiv'26) [[Project]](https://alexandertsui.github.io/block3d/) [[Paper]](https://arxiv.org/pdf/2608.19567)
 
 * SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.18560)
@@ -38,6 +42,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* Procedura: Agentic 3D Modeling with Procedural Control (Arxiv'26) [[Project]](https://spatiaos.github.io/projects/procedura/) [[Paper]](https://arxiv.org/pdf/2608.26238)
+
 * aDSL: Agentic 3D Creation via Joint Agent-Program Design (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.17975) [[Code]](https://github.com/sig-pku/aDSL)
 
 * Test-Time Scaling for CAD Generation via Verifier-Free Consensus Selection (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.09706)
@@ -59,6 +65,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
 
 ### Texture Design
+
+* GLOSS: Geometric Local Self-Similarity Learning for Faithful Reference-Guided Texture Fill (Arxiv'26) [[Project]](https://chenyuecai.github.io/gloss-page/) [[Paper]](https://arxiv.org/pdf/2608.25461)
 
 * TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_TEXTRIX_Latent_Attribute_Grid_for_Native_Texture_Generation_and_Beyond_CVPR_2026_paper.pdf)
 
@@ -114,6 +122,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* SpatialCrafter: Single Image World Modeling with Generative 3D Proxies (Arxiv'26) [[Project]](https://fangchuan.github.io/SpatialCrafter/) [[Paper]](https://arxiv.org/pdf/2608.27073)
+
 * I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners (CVPR'26) [[Project]](https://luling06.github.io/I-Scene-project/) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Ling_I-Scene_3D_Instance_Models_are_Implicit_Generalizable_Spatial_Learners_CVPR_2026_paper.pdf)
 
 * MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_MANSION_Multi-floor_lANguage-to-3D_Scene_generatIOn_for_loNg-horizon_tasks_CVPR_2026_paper.pdf)
@@ -149,6 +159,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2310.03602v1)
 
 ### Parametric Design
+
+* 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.26947)
 
 * Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.18840)
 
