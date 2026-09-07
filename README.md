@@ -1,7 +1,7 @@
 # Awesome-AIGC4AEC
 Collecting papers about **potential** AIGC applications in the AEC industry.
 
-![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.8-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.9-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHUCBIMS%2FAwesome-AIGC4AEC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -11,6 +11,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## Object Scale
 
 ### Mesh Design
+
+* DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.19216)
 
 * ViSculpt: Visual-Centric Agentic Geometry Editing (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.24169)
 
@@ -42,6 +44,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Parametric Design
 
+* DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces (ECCV'26) [[Project]](https://sadilkhan.github.io/dreamcad2026/) [[Paper]](https://arxiv.org/pdf/2603.05607)
+
+* Pointer-CAD v2: Plan-Then-Construct CAD Generation with Dimension-Aware Parametric Precision (ECCV'26) [[Paper]](https://arxiv.org/pdf/2606.29301)
+
 * Procedura: Agentic 3D Modeling with Procedural Control (Arxiv'26) [[Project]](https://spatiaos.github.io/projects/procedura/) [[Paper]](https://arxiv.org/pdf/2608.26238)
 
 * aDSL: Agentic 3D Creation via Joint Agent-Program Design (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.17975) [[Code]](https://github.com/sig-pku/aDSL)
@@ -65,6 +71,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
 
 ### Texture Design
+
+* Material Apprentice: Reflecting Process Expertise in Procedural Material Generation (ECCV'26) [[Project]](https://materialapprentice.github.io/) [[Paper]](https://arxiv.org/pdf/2607.13318)
 
 * GLOSS: Geometric Local Self-Similarity Learning for Faithful Reference-Guided Texture Fill (Arxiv'26) [[Project]](https://chenyuecai.github.io/gloss-page/) [[Paper]](https://arxiv.org/pdf/2608.25461)
 
@@ -122,6 +130,14 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion (ECCV'26) [[Project]](https://mschneider456.github.io/world-mesh/) [[Paper]](https://arxiv.org/pdf/2603.22972) [[Code]](https://github.com/mschneider456/worldmesh)
+
+* InSpace: Structure-Aware 3D Indoor Scene Generation from a Single 360° Image (ECCV'26) [[Project]](https://kookie12.github.io/InSpace-Project-Page/) [[Paper]](https://arxiv.org/pdf/2607.03990)
+
+* OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.16099) [[Code]](https://github.com/SensenGao/OneWorld)
+
+* GeoWorld: Providing Full-frame Geometry Features to Facilitate 3D Scene Generation (ECCV'26) [[Project]](https://peaes.github.io/GeoWorld/) [[Paper]](https://arxiv.org/pdf/2511.23191) [[Code]](https://github.com/peaes/GeoWorld)
+
 * SpatialCrafter: Single Image World Modeling with Generative 3D Proxies (Arxiv'26) [[Project]](https://fangchuan.github.io/SpatialCrafter/) [[Paper]](https://arxiv.org/pdf/2608.27073)
 
 * I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners (CVPR'26) [[Project]](https://luling06.github.io/I-Scene-project/) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Ling_I-Scene_3D_Instance_Models_are_Implicit_Generalizable_Spatial_Learners_CVPR_2026_paper.pdf)
@@ -170,7 +186,7 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 * iARCS: Iterative Agentic RL for Controllable 3D Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.06161)
 
-* Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.03064)
+* Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2608.03064)
 
 * Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.01973)
 
@@ -219,6 +235,16 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## City Scale
 
 ### Mesh Design
+
+* Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States (Arxiv'26) [[Project]](https://kangliao929.github.io/projects/puffin-world/) [[Paper]](https://arxiv.org/pdf/2609.04196)
+
+* OctWorld: Long-Range World-Consistent Video Generation with Octree-Based 3D Mapping (Arxiv'26) [[Project]](https://maxtirerror.github.io/octworldpage/) [[Paper]](https://arxiv.org/pdf/2609.03919)
+
+* Map2World: Segment Map Conditioned Text to 3D World Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2605.00781)
+
+* WorldAgents: Can Foundation Image Models be Agents for 3D World Models? (ECCV'26) [[Project]](https://ziyaerkoc.com/worldagents/) [[Paper]](https://arxiv.org/pdf/2603.19708)
+
+* ShellMaker: Language-Guided Exterior Completion under Structural Constraints (ECCV'26) [[Project]](https://ruiqixu37.github.io/ShellMaker_web/) [[Paper]](https://arxiv.org/pdf/2606.31680)
 
 * GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.17988)
 
