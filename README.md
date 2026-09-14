@@ -7,6 +7,24 @@ This is an awesome list of **potential** AIGC applications in the AEC industry. 
 
 Please feel free to pull requests to add new resources or open issues for questions, discussion and collaborations.
 
+## AEC AIGC Agents & Projects
+
+High-impact foundation models, agentic tools, and open-source 3D generation projects with direct potential for AEC design, visualization, modeling, and world-building workflows.
+
+* GPT-6 Astra: OpenAI's frontier agentic model, demonstrated modeling a house in Blender and turning it into a walkable Unreal Engine 5 scene for design exploration and client preview. [[Project]](https://openai.com/index/gpt-6-astra/)
+
+* Blender MCP: A widely adopted MCP integration that lets LLM agents control Blender for 3D modeling, scene editing, rendering, and asset-generation workflows. [[Project]](https://mcp-for-blender.com/) [[Code]](https://github.com/ahujasid/blender-mcp)
+
+* Hunyuan3D-2: Tencent's high-resolution text/image-to-3D asset generation system with geometry and texture generation for production-oriented 3D content creation. [[Project]](https://3d.hunyuan.tencent.com/) [[Code]](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)
+
+* TRELLIS.2: Microsoft's native and compact structured-latent framework for high-quality 3D generation, providing a strong open-source backbone for image-to-3D and downstream design workflows. [[Code]](https://github.com/microsoft/TRELLIS.2)
+
+* threestudio: A unified and extensible framework for text-to-3D and image-to-3D content generation, widely used for prototyping and integrating generative 3D methods. [[Code]](https://github.com/threestudio-project/threestudio)
+
+* ComfyUI-3D-Pack: A popular 3D extension suite for ComfyUI that integrates mesh, UV texture, 3D Gaussian Splatting, NeRF, and multiple image-to-3D generation models into node-based workflows. [[Code]](https://github.com/MrForExample/ComfyUI-3D-Pack)
+
+* HunyuanWorld: Tencent's open-source 3D world generation project for creating immersive, explorable, and interactive 3D environments from text or images. [[Project]](https://3d.hunyuan.tencent.com/sceneTo3D) [[Code]](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
+
 
 ## Object Scale
 
