@@ -12,7 +12,19 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.22782)
+
+* DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation (ECCV'26) [[Project]](https://ejshim.github.io/diffgi/) [[Paper]](https://arxiv.org/pdf/2607.13365)
+
+* Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention (ECCV'26) [[Paper]](https://arxiv.org/pdf/2507.17745)
+
+* SuperVoxelGPT: Adaptive and Ordered 3D Tokenization for Autoregressive Shape Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2605.29655)
+
+* Interact3D: Compositional 3D Generation of Interactive Objects (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.16085)
+
 * DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.19216)
+
+* Guiding Image-to-3D Generation with Test-Time Partial Observations (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2609.10531)
 
 * ViSculpt: Visual-Centric Agentic Geometry Editing (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.24169)
 
@@ -47,6 +59,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces (ECCV'26) [[Project]](https://sadilkhan.github.io/dreamcad2026/) [[Paper]](https://arxiv.org/pdf/2603.05607)
 
 * Pointer-CAD v2: Plan-Then-Construct CAD Generation with Dimension-Aware Parametric Precision (ECCV'26) [[Paper]](https://arxiv.org/pdf/2606.29301)
+
+* CIT-CAD: Constraint Intent Tree-based CAD Code Generation and Verification (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2609.07434)
 
 * Procedura: Agentic 3D Modeling with Procedural Control (Arxiv'26) [[Project]](https://spatiaos.github.io/projects/procedura/) [[Paper]](https://arxiv.org/pdf/2608.26238)
 
@@ -130,6 +144,10 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 ### Mesh Design
 
+* GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation (ECCV'26) [[Project]](https://nicolasvonluetzow.github.io/GaussianGPT/) [[Paper]](https://arxiv.org/pdf/2603.26661)
+
+* Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.13910)
+
 * WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion (ECCV'26) [[Project]](https://mschneider456.github.io/world-mesh/) [[Paper]](https://arxiv.org/pdf/2603.22972) [[Code]](https://github.com/mschneider456/worldmesh)
 
 * InSpace: Structure-Aware 3D Indoor Scene Generation from a Single 360° Image (ECCV'26) [[Project]](https://kookie12.github.io/InSpace-Project-Page/) [[Paper]](https://arxiv.org/pdf/2607.03990)
@@ -175,6 +193,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 * Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2310.03602v1)
 
 ### Parametric Design
+
+* NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2606.29395)
 
 * 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.26947)
 
@@ -235,6 +255,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 ## City Scale
 
 ### Mesh Design
+
+* LivingWorld: Interactive 4D World Generation with Environmental Dynamics (ECCV'26) [[Project]](https://cvsp-lab.github.io/LivingWorld/) [[Paper]](https://arxiv.org/pdf/2604.01641)
 
 * Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States (Arxiv'26) [[Project]](https://kangliao929.github.io/projects/puffin-world/) [[Paper]](https://arxiv.org/pdf/2609.04196)
 
