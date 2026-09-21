@@ -34,6 +34,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 * DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation (ECCV'26) [[Project]](https://ejshim.github.io/diffgi/) [[Paper]](https://arxiv.org/pdf/2607.13365)
 
+* ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation (ECCV'26) [[Project]](https://roar-3d.github.io/) [[Paper]](https://arxiv.org/pdf/2605.21121)
+
 * Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention (ECCV'26) [[Paper]](https://arxiv.org/pdf/2507.17745)
 
 * SuperVoxelGPT: Adaptive and Ordered 3D Tokenization for Autoregressive Shape Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2605.29655)
@@ -41,6 +43,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * Interact3D: Compositional 3D Generation of Interactive Objects (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.16085)
 
 * DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.19216)
+
+* KaiNinja: Extending Native 3D Generators to the Part Level (Arxiv'26) [[Project]](https://alaya-lab.github.io/KaiNinja/) [[Paper]](https://arxiv.org/pdf/2609.15659)
+
+* SAM3D-Part: Interactive Part Selection and Generation from 3D Objects (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2609.15639) [[Code]](https://github.com/Jiahao620/sam3d-part)
 
 * Guiding Image-to-3D Generation with Test-Time Partial Observations (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2609.10531)
 
@@ -212,6 +218,12 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* Roam2Room: A Unified Floorplan-to-Furnished Framework for Controllable Indoor Scene Generation (ECCV'26) [[Project]](https://kairos-homeworld.github.io/) [[Paper]](https://arxiv.org/pdf/2606.06390)
+
+* Taming LLMs for Codematic Indoor Scene Generation (ECCV'26) [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1860.pdf)
+
+* SceneOrchestra: Efficient Agentic 3D Scene Synthesis via Full Tool-Call Trajectory Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2604.19907)
+
 * NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation (ECCV'26) [[Paper]](https://arxiv.org/pdf/2606.29395)
 
 * 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.26947)
@@ -259,6 +271,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * LayoutGPT: Compositional Visual Planning and Generation with Large Language Models (NeurIPS'23) [[Project]](https://layoutgpt.github.io/) [[Paper]](https://arxiv.org/pdf/2305.15393) [[Code]](https://github.com/weixi-feng/LayoutGPT)
   
 ### Texture Design
+
+* SceneHI: High-Resolution 3D-Consistent Scene Texturing with Controllable Illumination (ECCV'26) [[Paper]](https://arxiv.org/pdf/2609.10363)
 
 * RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing (CVPR'25) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_RoomPainter_View-Integrated_Diffusion_for_Consistent_Indoor_Scene_Texturing_CVPR_2025_paper.pdf)
 
