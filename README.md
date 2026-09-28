@@ -30,6 +30,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* OREO: Fidelity Alignment in 3D Generation via On-the-fly Rendering-Editing Optimization (ECCV'26) [[Project]](https://theericma.github.io/oreo/) [[Paper]](https://arxiv.org/pdf/2609.29788)
+
 * Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.22782)
 
 * DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation (ECCV'26) [[Project]](https://ejshim.github.io/diffgi/) [[Paper]](https://arxiv.org/pdf/2607.13365)
@@ -79,6 +81,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2505.07747) [[Code]](https://github.com/stepfun-ai/Step1X-3D)
 
 ### Parametric Design
+
+* Vision2CAD: A Visual Agent Harness for Explicit Geometry Referencing and Localization in Parametric CAD Modeling (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2609.22688)
 
 * DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces (ECCV'26) [[Project]](https://sadilkhan.github.io/dreamcad2026/) [[Paper]](https://arxiv.org/pdf/2603.05607)
 
@@ -331,6 +335,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2401.17053)
 
 ### Parametric Design
+
+* ProxyBuild: Text-Guided Structured 3D Building Generation with Mesh-Anchored Procedural Proxies (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2609.23386)
 
 * CityDreamer: Compositional Generative Model of Unbounded 3D Cities (CVPR'24) [[Project]](https://www.infinitescript.com/project/city-dreamer/) [[Paper]](https://arxiv.org/pdf/2309.00610) [[Code]](https://github.com/hzxie/CityDreamer)
 
