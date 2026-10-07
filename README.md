@@ -1,7 +1,7 @@
 # Awesome-AIGC4AEC
 Collecting papers about **potential** AIGC applications in the AEC industry.
 
-![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.9-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github)
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.10-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github)
 
 This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -29,6 +29,14 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 ## Object Scale
 
 ### Mesh Design
+
+* Octrees as an Explicit 3D Language (Arxiv'26) [[Project]](https://plurato.github.io/OctLLM-page/) [[Paper]](https://arxiv.org/pdf/2610.02388) [[Code]](https://github.com/octree-nn/octllm)
+
+* Flow Matching Reinforcement for 3D Mesh Generation via Dynamic Homing Optimization (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.01233)
+
+* Seg3DParts: Segmentation-Grounded Controllable Part-Level 3D Generation (NeurIPS'26) [[Paper]](https://arxiv.org/pdf/2609.36918)
+
+* OREO: Fidelity Alignment in 3D Generation via On-the-fly Rendering-Editing Optimization (ECCV'26) [[Project]](https://theericma.github.io/oreo/) [[Paper]](https://arxiv.org/pdf/2609.29788)
 
 * Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models (ECCV'26) [[Paper]](https://arxiv.org/pdf/2603.22782)
 
@@ -109,6 +117,14 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
 
 ### Texture Design
+
+* Texture Space Material Diffusion (Arxiv'26) [[Project]](https://nvlabs.github.io/texdiffusion/) [[Paper]](https://arxiv.org/pdf/2609.37654)
+
+* MatLoom: Layered Text-to-Material Generation in a Compact Program Space (Arxiv'26) [[Project]](https://yflam1.github.io/matloom/) [[Paper]](https://arxiv.org/pdf/2609.40322) [[Code]](https://github.com/yflam1/matloom)
+
+* DirectUV: Image-Conditioned UV Texture Generation with Surface-Aware Positional Encoding (NeurIPS'26) [[Paper]](https://arxiv.org/pdf/2609.34651)
+
+* Does Native 3D Texture Generation Necessarily Require 3D Assets for Training? (Arxiv'26) [[Project]](https://github.com/wangjiangshan0725/Tex-Zero) [[Paper]](https://arxiv.org/pdf/2609.34621)
 
 * Material Apprentice: Reflecting Process Expertise in Procedural Material Generation (ECCV'26) [[Project]](https://materialapprentice.github.io/) [[Paper]](https://arxiv.org/pdf/2607.13318)
 
@@ -331,6 +347,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2401.17053)
 
 ### Parametric Design
+
+* WorldWeave: Growing Persistent Geometric Worlds for Video Generation (Arxiv'26) [[Project]](https://laiyindagm.github.io/WorldWeave/) [[Paper]](https://arxiv.org/pdf/2609.34221)
 
 * CityDreamer: Compositional Generative Model of Unbounded 3D Cities (CVPR'24) [[Project]](https://www.infinitescript.com/project/city-dreamer/) [[Paper]](https://arxiv.org/pdf/2309.00610) [[Code]](https://github.com/hzxie/CityDreamer)
 
