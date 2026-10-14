@@ -30,6 +30,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation (NeurIPS'26) [[Project]](https://lizhiqi49.github.io/MoCA/) [[Paper]](https://arxiv.org/pdf/2512.07628)
+
 * Octrees as an Explicit 3D Language (Arxiv'26) [[Project]](https://plurato.github.io/OctLLM-page/) [[Paper]](https://arxiv.org/pdf/2610.02388) [[Code]](https://github.com/octree-nn/octllm)
 
 * Flow Matching Reinforcement for 3D Mesh Generation via Dynamic Homing Optimization (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.01233)
@@ -87,6 +89,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2505.07747) [[Code]](https://github.com/stepfun-ai/Step1X-3D)
 
 ### Parametric Design
+
+* DrawingsDreamer: A Unified Multi-View Engineering Drawings Generation Model (NeurIPS'26) [[Paper]](https://arxiv.org/pdf/2609.35242)
+
+* Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation (NeurIPS'26)
 
 * DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces (ECCV'26) [[Project]](https://sadilkhan.github.io/dreamcad2026/) [[Paper]](https://arxiv.org/pdf/2603.05607)
 
@@ -183,6 +189,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 ## Room Scale
 
 ### Mesh Design
+
+* Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale (NeurIPS'26) [[Project]](https://wswdx.github.io/3DRAE/) [[Paper]](https://arxiv.org/pdf/2604.11331)
 
 * GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation (ECCV'26) [[Project]](https://nicolasvonluetzow.github.io/GaussianGPT/) [[Paper]](https://arxiv.org/pdf/2603.26661)
 
