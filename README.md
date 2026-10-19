@@ -11,6 +11,8 @@ Please feel free to pull requests to add new resources or open issues for questi
 
 High-impact foundation models, agentic tools, and open-source 3D generation projects with direct potential for AEC design, visualization, modeling, and world-building workflows.
 
+* 3DCodeVerse: Exploring 3D Worlds as Code (Arxiv'26): A coding-agent framework for generating and refining editable 3D objects and scenes through execution checks, spatial measurements, and visual feedback. Its Blender Python, CadQuery, and Three.js workflows offer potential for AEC design modeling, visualization, and procedural scene generation. [[Project]](https://3dcodeverse.com/) [[Paper]](https://arxiv.org/pdf/2610.22341) [[Code]](https://github.com/gaoypeng/3dcodeverse)
+
 * GPT-6 Astra: OpenAI's frontier agentic model, demonstrated modeling a house in Blender and turning it into a walkable Unreal Engine 5 scene for design exploration and client preview. [[Project]](https://openai.com/index/gpt-6-astra/)
 
 * Blender MCP: A widely adopted MCP integration that lets LLM agents control Blender for 3D modeling, scene editing, rendering, and asset-generation workflows. [[Project]](https://mcp-for-blender.com/) [[Code]](https://github.com/ahujasid/blender-mcp)
