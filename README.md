@@ -244,6 +244,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* LayoutBridge: Anisotropic Brownian Bridges for Public Indoor Floorplan Generation (NeurIPS'26) [[Code]](https://github.com/lalalalaxxx/LayoutBridge)
+
 * Roam2Room: A Unified Floorplan-to-Furnished Framework for Controllable Indoor Scene Generation (ECCV'26) [[Project]](https://kairos-homeworld.github.io/) [[Paper]](https://arxiv.org/pdf/2606.06390)
 
 * Taming LLMs for Codematic Indoor Scene Generation (ECCV'26) [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1860.pdf)
