@@ -244,6 +244,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation (Arxiv'26): An agentic framework for generating 3D indoor scenes from natural language by jointly learning scene design and quality critique. Scene-GRPO uses Critic feedback to refine spatial layouts and furniture placement, targeting physical validity, functional correctness, and layout coherence with fewer ineffective edits. [[Paper]](https://arxiv.org/abs/2610.23121) [[Code]](https://github.com/ZJU-OmniAI/Scene-Designer)
+
 * LayoutBridge: Anisotropic Brownian Bridges for Public Indoor Floorplan Generation (NeurIPS'26) [[Code]](https://github.com/lalalalaxxx/LayoutBridge)
 
 * Roam2Room: A Unified Floorplan-to-Furnished Framework for Controllable Indoor Scene Generation (ECCV'26) [[Project]](https://kairos-homeworld.github.io/) [[Paper]](https://arxiv.org/pdf/2606.06390)
