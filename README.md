@@ -32,6 +32,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* A Unified Framework for Image-to-3D Part Generation via Variable Granularity (NeurIPS'26) [[Paper]](https://arxiv.org/pdf/2610.31671) [[Code]](https://github.com/Gucci233/FlexPart)
+
+* Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation (NeurIPS'26) [[Project]](https://zhao-yiqun.github.io/structparts/) [[Paper]](https://arxiv.org/pdf/2610.21850) [[Code]](https://github.com/zhao-yiqun/structparts-code)
+
 * MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation (NeurIPS'26) [[Project]](https://lizhiqi49.github.io/MoCA/) [[Paper]](https://arxiv.org/pdf/2512.07628)
 
 * Octrees as an Explicit 3D Language (Arxiv'26) [[Project]](https://plurato.github.io/OctLLM-page/) [[Paper]](https://arxiv.org/pdf/2610.02388) [[Code]](https://github.com/octree-nn/octllm)
@@ -92,6 +96,12 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* GraphCAD: Geometry-Aware Diffusion on Edge-Adjacency Graphs for CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.30974)
+
+* Can It Actually Work? Synthesizing Functional CAD Mechanisms (Arxiv'26) [[Project]](https://thegenlab.ai/funcad/) [[Paper]](https://arxiv.org/pdf/2610.26861)
+
+* DeciCAD: Harness-Grounded Learning of Action Policies for CAD Agents (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.21755)
+
 * DrawingsDreamer: A Unified Multi-View Engineering Drawings Generation Model (NeurIPS'26) [[Paper]](https://arxiv.org/pdf/2609.35242)
 
 * Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation (NeurIPS'26)
@@ -125,6 +135,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
 
 ### Texture Design
+
+* SUPRA-TEX: 3D Generation with Super-Aligned Texture (Arxiv'26) [[Project]](https://supra-3d.github.io/supratex/) [[Paper]](https://arxiv.org/pdf/2610.22352) [[Code]](https://github.com/Supra-3D/supra-tex)
 
 * Texture Space Material Diffusion (Arxiv'26) [[Project]](https://nvlabs.github.io/texdiffusion/) [[Paper]](https://arxiv.org/pdf/2609.37654)
 
@@ -244,6 +256,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* GALA: Geometry-Aware Language Model for Controllable Object Arrangement (Arxiv'26) [[Project]](https://xccelephant.github.io/paper/gala/) [[Paper]](https://arxiv.org/pdf/2610.28280)
+
 * Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation (Arxiv'26): An agentic framework for generating 3D indoor scenes from natural language by jointly learning scene design and quality critique. Scene-GRPO uses Critic feedback to refine spatial layouts and furniture placement, targeting physical validity, functional correctness, and layout coherence with fewer ineffective edits. [[Paper]](https://arxiv.org/abs/2610.23121) [[Code]](https://github.com/ZJU-OmniAI/Scene-Designer)
 
 * LayoutBridge: Anisotropic Brownian Bridges for Public Indoor Floorplan Generation (NeurIPS'26) [[Code]](https://github.com/lalalalaxxx/LayoutBridge)
@@ -361,6 +375,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2401.17053)
 
 ### Parametric Design
+
+* WorldStream: Streaming Interactive 3D Worlds with Hierarchical Planning and Persistent State (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.28827)
+
+* InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation (Arxiv'26) [[Project]](https://yichuanh.github.io/infinidream-page/) [[Paper]](https://arxiv.org/pdf/2610.26853) [[Code]](https://github.com/yichuanH/InfiniDream)
 
 * WorldWeave: Growing Persistent Geometric Worlds for Video Generation (Arxiv'26) [[Project]](https://laiyindagm.github.io/WorldWeave/) [[Paper]](https://arxiv.org/pdf/2609.34221)
 
