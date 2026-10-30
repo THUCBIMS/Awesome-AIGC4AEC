@@ -136,6 +136,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Texture Design
 
+* Texture Consolidation of Generated Multi-View Renderings (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.36098) [[Code]](https://github.com/hliuw/TextureConsolidation)
+
 * SUPRA-TEX: 3D Generation with Super-Aligned Texture (Arxiv'26) [[Project]](https://supra-3d.github.io/supratex/) [[Paper]](https://arxiv.org/pdf/2610.22352) [[Code]](https://github.com/Supra-3D/supra-tex)
 
 * Texture Space Material Diffusion (Arxiv'26) [[Project]](https://nvlabs.github.io/texdiffusion/) [[Paper]](https://arxiv.org/pdf/2609.37654)
@@ -331,6 +333,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 ## City Scale
 
 ### Mesh Design
+
+* CityLift: Compositional 3D Urban Generation from a Single Image (Arxiv'26) [[Project]](https://ranhaogong.github.io/CityLift/) [[Paper]](https://arxiv.org/pdf/2610.32728)
 
 * LivingWorld: Interactive 4D World Generation with Environmental Dynamics (ECCV'26) [[Project]](https://cvsp-lab.github.io/LivingWorld/) [[Paper]](https://arxiv.org/pdf/2604.01641)
 
