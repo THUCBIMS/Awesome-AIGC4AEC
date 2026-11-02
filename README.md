@@ -1,7 +1,7 @@
 # Awesome-AIGC4AEC
 Collecting papers about **potential** AIGC applications in the AEC industry.
 
-![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.10-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github)
+![Awesome](https://awesome.re/badge.svg) ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.11-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-AIGC--For--AEC--Industry-yellow.svg?logo=github)
 
 This is an awesome list of **potential** AIGC applications in the AEC industry. Wish it could be helpful for both academia and industry. (Still updating)
 
@@ -31,6 +31,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 ## Object Scale
 
 ### Mesh Design
+
+* PhysAg3D: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets (Arxiv'26) [[Project]](https://supra-3d.github.io/PhysAg3D/) [[Paper]](https://arxiv.org/pdf/2610.39924) [[Code]](https://github.com/Supra-3D/PhysAg3D)
 
 * A Unified Framework for Image-to-3D Part Generation via Variable Granularity (NeurIPS'26) [[Paper]](https://arxiv.org/pdf/2610.31671) [[Code]](https://github.com/Gucci233/FlexPart)
 
@@ -95,6 +97,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2505.07747) [[Code]](https://github.com/stepfun-ai/Step1X-3D)
 
 ### Parametric Design
+
+* RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories (Arxiv'26) [[Project]](https://brain-labbb.github.io/RFW_A_web/) [[Paper]](https://arxiv.org/pdf/2610.40333)
+
+* CAD-WAM: Anticipating Geometry for Text-to-CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.39306) [[Code]](https://github.com/Lzy-1037/CAD-WAM)
 
 * GraphCAD: Geometry-Aware Diffusion on Edge-Adjacency Graphs for CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.30974)
 
@@ -256,6 +262,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.32978) [[Code]](https://github.com/Tinaliu0123/scenebloom)
+
 * GALA: Geometry-Aware Language Model for Controllable Object Arrangement (Arxiv'26) [[Project]](https://xccelephant.github.io/paper/gala/) [[Paper]](https://arxiv.org/pdf/2610.28280)
 
 * Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation (Arxiv'26): An agentic framework for generating 3D indoor scenes from natural language by jointly learning scene design and quality critique. Scene-GRPO uses Critic feedback to refine spatial layouts and furniture placement, targeting physical validity, functional correctness, and layout coherence with fewer ineffective edits. [[Paper]](https://arxiv.org/abs/2610.23121) [[Code]](https://github.com/ZJU-OmniAI/Scene-Designer)
@@ -285,6 +293,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2608.01973)
 
 * PlanCraft: Sketch, Refine, and Furnish for Architect-Inspired Progressive 3D Residential Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2607.23491)
+
+* Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans (CVPR'26) [[Paper]](https://arxiv.org/pdf/2603.11640)
 
 * Unified Vector Floorplan Generation via Markup Representation (CVPR'26) [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shiohara_Unified_Vector_Floorplan_Generation_via_Markup_Representation_CVPR_2026_paper.pdf)
 
@@ -332,6 +342,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory (Arxiv'26) [[Project]](https://cvlab-kaist.github.io/L3G-World/) [[Paper]](https://arxiv.org/pdf/2610.40614)
+
 * LivingWorld: Interactive 4D World Generation with Environmental Dynamics (ECCV'26) [[Project]](https://cvsp-lab.github.io/LivingWorld/) [[Paper]](https://arxiv.org/pdf/2604.01641)
 
 * Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States (Arxiv'26) [[Project]](https://kangliao929.github.io/projects/puffin-world/) [[Paper]](https://arxiv.org/pdf/2609.04196)
@@ -376,11 +388,15 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* Greenscapes: Optimized Vegetation Configurations in Cities (Arxiv'26) [[Project]](https://greenscapes-project.github.io/) [[Paper]](https://arxiv.org/pdf/2610.40007) [[Code]](https://github.com/greenscapes-project/greenscapes)
+
 * WorldStream: Streaming Interactive 3D Worlds with Hierarchical Planning and Persistent State (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.28827)
 
 * InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation (Arxiv'26) [[Project]](https://yichuanh.github.io/infinidream-page/) [[Paper]](https://arxiv.org/pdf/2610.26853) [[Code]](https://github.com/yichuanH/InfiniDream)
 
 * WorldWeave: Growing Persistent Geometric Worlds for Video Generation (Arxiv'26) [[Project]](https://laiyindagm.github.io/WorldWeave/) [[Paper]](https://arxiv.org/pdf/2609.34221)
+
+* MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts (CVPR'26) [[Project]](https://longhz140516.github.io/MajutsuCity/) [[Paper]](https://arxiv.org/pdf/2511.20415) [[Code]](https://github.com/LongHZ140516/MajutsuCity)
 
 * CityDreamer: Compositional Generative Model of Unbounded 3D Cities (CVPR'24) [[Project]](https://www.infinitescript.com/project/city-dreamer/) [[Paper]](https://arxiv.org/pdf/2309.00610) [[Code]](https://github.com/hzxie/CityDreamer)
 
