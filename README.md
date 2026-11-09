@@ -32,6 +32,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.07658)
+
+* SeMo3D: Unifying 3D Generation, Editing, and Completion via Selective Modeling (Arxiv'26) [[Project]](https://xiaokunsun.github.io/SeMo3D.github.io/) [[Paper]](https://arxiv.org/pdf/2611.02568)
+
 * PhysAg3D: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets (Arxiv'26) [[Project]](https://supra-3d.github.io/PhysAg3D/) [[Paper]](https://arxiv.org/pdf/2610.39924) [[Code]](https://github.com/Supra-3D/PhysAg3D)
 
 * A Unified Framework for Image-to-3D Part Generation via Variable Granularity (NeurIPS'26) [[Paper]](https://arxiv.org/pdf/2610.31671) [[Code]](https://github.com/Gucci233/FlexPart)
@@ -98,6 +102,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* Composable CAD: Sketch-to-CAD Program Synthesis in Parts (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.01165)
+
+* CRAFT: Corrective and Robust Multi-Agent Framework for Text-to-Parametric CAD (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.00076) [[Code]](https://github.com/idealab-isu/CRAFT)
+
 * RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories (Arxiv'26) [[Project]](https://brain-labbb.github.io/RFW_A_web/) [[Paper]](https://arxiv.org/pdf/2610.40333)
 
 * CAD-WAM: Anticipating Geometry for Text-to-CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.39306) [[Code]](https://github.com/Lzy-1037/CAD-WAM)
@@ -141,6 +149,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
 
 ### Texture Design
+
+* MIKU: Material Invariance and Knowledge Unification for PBR Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.07354)
+
+* RouTex: Multi-reference 3D Texture Generation by Reprogramming Rotary Position Encoding (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.06070)
 
 * SUPRA-TEX: 3D Generation with Super-Aligned Texture (Arxiv'26) [[Project]](https://supra-3d.github.io/supratex/) [[Paper]](https://arxiv.org/pdf/2610.22352) [[Code]](https://github.com/Supra-3D/supra-tex)
 
@@ -209,6 +221,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 ## Room Scale
 
 ### Mesh Design
+
+* Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.07961)
+
+* VoxLution: Evolving Voxels for High-Fidelity 3D Scene Generation (Arxiv'26) [[Project]](https://daoyig.github.io/VoxLution/) [[Paper]](https://arxiv.org/pdf/2610.41501)
 
 * Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale (NeurIPS'26) [[Project]](https://wswdx.github.io/3DRAE/) [[Paper]](https://arxiv.org/pdf/2604.11331)
 
@@ -341,6 +357,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 ## City Scale
 
 ### Mesh Design
+
+* GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.01543)
 
 * L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory (Arxiv'26) [[Project]](https://cvlab-kaist.github.io/L3G-World/) [[Paper]](https://arxiv.org/pdf/2610.40614)
 
