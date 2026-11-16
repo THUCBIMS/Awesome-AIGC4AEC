@@ -32,6 +32,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* Sprint3D: Accelerating End-to-End 3D Asset Generation through Pipeline Optimization (Arxiv'26) [[Project]](https://alaya-lab.github.io/sprint3d/) [[Paper]](https://arxiv.org/pdf/2611.16701) [[Code]](https://github.com/AlayaLab/sprint3d)
+
+* JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.10690)
+
 * ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.07658)
 
 * SeMo3D: Unifying 3D Generation, Editing, and Completion via Selective Modeling (Arxiv'26) [[Project]](https://xiaokunsun.github.io/SeMo3D.github.io/) [[Paper]](https://arxiv.org/pdf/2611.02568)
@@ -101,6 +105,14 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets (Arxiv'25) [[Paper]](https://arxiv.org/pdf/2505.07747) [[Code]](https://github.com/stepfun-ai/Step1X-3D)
 
 ### Parametric Design
+
+* SurfScaff3D: Bridging Geometric and Semantic Representations for LLM-based 3D Object Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.11678)
+
+* GOPR-CAD: Graph-of-Operations Progressive Reasoning for CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.11470)
+
+* PhyCAD: Physics-Aware Text-to-CAD Generation via Hierarchical Reinforcement Learning (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.09401)
+
+* IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing (EMNLP'26) [[Paper]](https://aclanthology.org/2026.emnlp-main.1466/)
 
 * Composable CAD: Sketch-to-CAD Program Synthesis in Parts (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.01165)
 
@@ -221,6 +233,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 ## Room Scale
 
 ### Mesh Design
+
+* SoftPAT3D: Physics-Augmented Text-to-3D Scene Generation with Deformables (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.11087)
 
 * Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.07961)
 
