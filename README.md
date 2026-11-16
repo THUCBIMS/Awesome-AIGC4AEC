@@ -27,6 +27,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 * HunyuanWorld: Tencent's open-source 3D world generation project for creating immersive, explorable, and interactive 3D environments from text or images. [[Project]](https://3d.hunyuan.tencent.com/sceneTo3D) [[Code]](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
 
+* ArchLang: An MIT-licensed text language and compiler for floor plans. An AI agent writes `.arch` source; the compiler draws a dimensioned plan as SVG, DXF or PDF and returns diagnostics with suggested fixes. Includes an MCP server. [[Project]](https://archlang.uk) [[Code]](https://github.com/ChanMeng666/archlang)
+
 
 ## Object Scale
 
