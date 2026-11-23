@@ -32,6 +32,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain (Arxiv'26) [[Project]](https://dreamtechai.github.io/Direct3D-V3/) [[Paper]](https://arxiv.org/pdf/2611.26511) [[Code]](https://github.com/DreamTechAI/Direct3D-V3)
+
 * Sprint3D: Accelerating End-to-End 3D Asset Generation through Pipeline Optimization (Arxiv'26) [[Project]](https://alaya-lab.github.io/sprint3d/) [[Paper]](https://arxiv.org/pdf/2611.16701) [[Code]](https://github.com/AlayaLab/sprint3d)
 
 * JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.10690)
@@ -106,6 +108,10 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* BRepA: Graph-Based B-Rep Pretraining for Unified CAD Understanding and Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.22903)
+
+* Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation (ICML'26) [[Paper]](https://proceedings.mlr.press/v306/guan26g.html) [[Code]](https://github.com/JumpJumpTigger-GYJ/A3PL)
+
 * SurfScaff3D: Bridging Geometric and Semantic Representations for LLM-based 3D Object Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.11678)
 
 * GOPR-CAD: Graph-of-Operations Progressive Reasoning for CAD Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.11470)
@@ -161,6 +167,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * How Can Large Language Models Help Humans in Design and Manufacturing? (Arxiv'23) [[Paper]](https://arxiv.org/pdf/2307.14377)
 
 ### Texture Design
+
+* One Code per Material: Neural Representation and Generation of Measured BTFs (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.20948)
 
 * MIKU: Material Invariance and Knowledge Unification for PBR Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.07354)
 
@@ -292,6 +300,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Parametric Design
 
+* ReflectScene: MLLM-Guided Closed-Loop Diffusion for 3D Indoor Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.23845)
+
 * SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.32978) [[Code]](https://github.com/Tinaliu0123/scenebloom)
 
 * GALA: Geometry-Aware Language Model for Controllable Object Arrangement (Arxiv'26) [[Project]](https://xccelephant.github.io/paper/gala/) [[Paper]](https://arxiv.org/pdf/2610.28280)
@@ -372,6 +382,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 
 ### Mesh Design
 
+* World-delta: Continually Integrating Observations for Incremental 3D Scene Generation (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.25802)
+
 * GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2611.01543)
 
 * L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory (Arxiv'26) [[Project]](https://cvlab-kaist.github.io/L3G-World/) [[Paper]](https://arxiv.org/pdf/2610.40614)
@@ -419,6 +431,8 @@ High-impact foundation models, agentic tools, and open-source 3D generation proj
 * BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation (Arxiv'24) [[Paper]](https://arxiv.org/pdf/2401.17053)
 
 ### Parametric Design
+
+* CANDO: Cooperative Agentic Network for Layout Design Optimization (Arxiv'26) [[Paper]](https://arxiv.org/pdf/2610.10044)
 
 * Greenscapes: Optimized Vegetation Configurations in Cities (Arxiv'26) [[Project]](https://greenscapes-project.github.io/) [[Paper]](https://arxiv.org/pdf/2610.40007) [[Code]](https://github.com/greenscapes-project/greenscapes)
 
